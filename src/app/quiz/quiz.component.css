@@ -1,0 +1,9 @@
+.opcao-correta {
+  background-color: #96f9ad;
+  color: #ffffff;
+}
+
+.opcao-incorreta {
+  background-color: #ff7381;
+  color: #ffffff;
+}
